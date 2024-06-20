@@ -250,7 +250,19 @@ display: grid;
 }
 
 @media screen and (max-width: 432px) {
+  .profilepic{
+    margin-top: 40px;
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+  }
   .section__text{
-    margin-top: 250px;
+    margin-top: 150px;
+  }
+  .about-pic{
+    height: 250px;
+  }
+  .about-details-container{
+    margin-top: 100px;
   }
 }
