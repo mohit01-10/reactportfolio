@@ -34,7 +34,7 @@ function Profile() {
         <div className="section__text">
           <h1 className="title0">Namaste and<br/> Hi, I'm <span id="typing-text" className="typing-animation">Mohit!🖐️</span></h1>
           <p className="section__text__p2"><b>Software Engineer</b></p>
-          <p className="section__text__p3">Currently pursuing a Computer Science degree with proficiency in AI/ML at the Jaypee University of Information Technology-Solan.</p>
+          <p className="section__text__p3">Currently pursuing Computer Science degree with proficiency in AI&ML at the Jaypee University of Information Technology-Solan.</p>
           <div className="btn-container">
             <button className="btn btn-color-2" onClick={handleContactClick}>
               Connect

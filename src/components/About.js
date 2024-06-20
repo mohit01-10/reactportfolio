@@ -42,14 +42,14 @@ function About() {
                 className="icon"
               />
               <h3>Education</h3>
-              <p>B.Tech Bachelors Degree<br />Computer Science Engineering</p>
+              <p>Bachelors Degree B.Tech in<br />Computer Science Engineering</p>
             </div>
           </div>
           <div className="text-container">
             <p>
               I'm a student at the Jaypee University of Information Technology, majoring in computer science.<br /><br />
               I'm interested in technology and research, and I hope to one day become a software engineer.<br /><br />
-              I've had a lot of success in my studies and have also gained some practical experience through internships and <b>hackathons</b>.
+              I've had a lot of success in my studies and have also gained some practical experience through internships and hackathons.
             </p>
           </div>
         </div>

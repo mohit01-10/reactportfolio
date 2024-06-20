@@ -109,7 +109,7 @@ function Experience() {
             </div>
           </div>
           <div class="details-container">
-            <h2 class="experience-sub-title">Programming/Others</h2>
+            <h2 class="experience-sub-title">Programming</h2>
             <div class="article-container">
               <article>
                 <img
