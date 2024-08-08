@@ -1,6 +1,6 @@
 import React from 'react';
 import './Profile.css';
-import profilePic from "../images/pp.jpeg";
+import profilePic from "../images/imggg-modified.png";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin, faGithub, faInstagram } from '@fortawesome/free-brands-svg-icons';
 
@@ -32,7 +32,7 @@ function Profile() {
           <img src={profilePic} alt="Profile" className="profilepic" />
         </div>
         <div className="section__text">
-          <h1 className="title0">Namaste and<br/> Hi, I'm <span id="typing-text" className="typing-animation">Mohit!🖐️</span></h1>
+          <h1 className="title0">Welcome and<br/> Hi, I'm <span id="typing-text" className="typing-animation">Mohit!🖐️</span></h1>
           <p className="section__text__p2"><b>Software Engineer</b></p>
           <p className="section__text__p3">Currently pursuing Computer Science degree with proficiency in AI&ML at the Jaypee University of Information Technology-Solan.</p>
           <div className="btn-container">
