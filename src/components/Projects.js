@@ -85,14 +85,14 @@ function Projects() {
 
        <div className="details-container" >
          <p>
-         <FontAwesomeIcon icon={faReact} /> Authored a research paper on <i>“Renewable energy source selection using T-spherical fuzzy soft Dombi aggregation operators”</i>, with the paper accepted in ICET 2023 for publication by Scrivener Publishing.</p>
+         <FontAwesomeIcon icon={faReact} /> M. Pal, H. Dhumras, R.K. Bajaj and V. Shukala, <i>“Renewable energy source selection using T-spherical fuzzy soft Dombi aggregation operators”</i> in Proc. Int. Conf. Innovations Clean Energy Technol. (ICET 2023), publication by Scrivener Publishing.</p>
          <p><br></br>
-         <FontAwesomeIcon icon={faReact} /> Co-Authored a book chapter titled <i>“Predicting Alzheimer’s Disease: A Case Study Using Federated Learning
-           Framework”</i>, with the chapter accepted in FLAIOE for publishing by Springer .</p>
+         <FontAwesomeIcon icon={faReact} /> A. Sharma, M. Pal, A. Soni, and R. Mohana, <i>“Predicting Alzheimer’s Disease: A Case Study Using Federated Learning Frame-
+work</i>” in FLAIOE, accepted for publication by Springer.</p>
            <br></br>
          <p>
-         <FontAwesomeIcon icon={faReact} /> Co-Authored a research paper titled <i>“A Multi-class Ensemble Framework for Alzheimer Disease Classification
-       ”</i>, with the under review by editor of the journal Computers in Biology and Medicine. 
+         <FontAwesomeIcon icon={faReact} /> M. Pal, A. Sharma, and R. Mohana, <i>“A Multi-class Ensemble Framework for Alzheimer Disease Classification”</i>, unpublished
+manuscript, under review.
          </p>
        </div>
      </section>
