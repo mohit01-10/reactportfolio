@@ -1,7 +1,7 @@
 import React from 'react';
 import './Projects.css';
 import arrowIcon from '../images/arrow.png';
-import al from '../images/pp1.png';
+import dc from '../images/dcb.png';
 import aa from '../images/i1.jpg';
 import cv from '../images/pp3.png';
 import ps from '../images/pp4.png';
@@ -40,11 +40,11 @@ function Projects() {
       demoLink: 'https://github.com/'
     },
     {
-      imgSrc: al,
+      imgSrc: dc,
       altText: 'Project 4',
-      title: 'ALab',
-      features: ['AI-based Question Generator', 'Schedule Exams', 'Classrooms Support'],
-      githubLink: 'https://github.com/',
+      title: 'Doc Chatbot',
+      features: ['Document based Chatbot', 'AI-Chatbot', 'Customer Support'],
+      githubLink: 'https://github.com/mohit01-10/Dialogflow-ES-DocChatBot',
       demoLink: 'https://github.com/'
     }
   ];
@@ -85,14 +85,14 @@ function Projects() {
 
        <div className="details-container" >
          <p>
-         <FontAwesomeIcon icon={faReact} /> M. Pal, H. Dhumras, R.K. Bajaj and V. Shukala, <i>“Renewable energy source selection using T-spherical fuzzy soft Dombi aggregation operators”</i> in Proc. Int. Conf. Innovations Clean Energy Technol. (ICET 2023), publication by Scrivener Publishing.</p>
+         <FontAwesomeIcon icon={faReact} /> M. Pal, H. Dhumras, G. Garg, and V. Shukla, “On renewable energy source selection problem using T ‐Spherical fuzzy soft Dombi aggregation operators,” Sustainable Mobility, pp. 237–253, Nov. 2024, doi: 10.1002/9781394166831.ch14.</p>
          <p><br></br>
-         <FontAwesomeIcon icon={faReact} /> A. Sharma, M. Pal, A. Soni, and R. Mohana, <i>“Predicting Alzheimer’s Disease: A Case Study Using Federated Learning Frame-
-work</i>” in FLAIOE, accepted for publication by Springer.</p>
+         <FontAwesomeIcon icon={faReact} /> Co-Authored a book chapter titled <i>“Predicting Alzheimer’s Disease: A Case Study Using Federated Learning
+           Framework”</i>, with the chapter accepted in FLAIOE for publishing by Springer .</p>
            <br></br>
          <p>
-         <FontAwesomeIcon icon={faReact} /> M. Pal, A. Sharma, and R. Mohana, <i>“A Multi-class Ensemble Framework for Alzheimer Disease Classification”</i>, unpublished
-manuscript, under review.
+         <FontAwesomeIcon icon={faReact} /> Co-Authored a research paper titled <i>“A Multi-class Ensemble Framework for Alzheimer Disease Classification
+       ”</i>, with the under review by editor of the journal Computers in Biology and Medicine. 
          </p>
        </div>
      </section>
