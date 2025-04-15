@@ -31,13 +31,17 @@ body {
     height: 5vh;
     display: flex;
     width: 100%;
+
   }
   .fs{
     display: flex;
     width: 100%; 
     background-color: #2A4365; 
     color: whitesmoke;
-
+    background-size: cover;      /* or 'contain' */
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
   }
   
   .profilepic {
@@ -85,6 +89,7 @@ body {
     margin-bottom: 3rem;
     text-align: left;
     color: whitesmoke;
+    max-width: 60%;
   }
   
   .title0 {
@@ -100,7 +105,7 @@ body {
     display: inline-flex;
     position: relative;
     border-right: .15em solid whitesmoke;
-    animation: typing 2s steps(20, end) forwards, blink .8s infinite;
+    animation: typing 2s steps(15, end) forwards, blink .8s infinite;
   }
   
   @keyframes typing {
@@ -108,7 +113,7 @@ body {
       width: 0;
     }
     to {
-      width: 50%;
+      width: 25%;
     }
   }
   
@@ -144,6 +149,9 @@ body {
   display: flex;
   justify-content: center;
   gap: 1rem;
+  align-self: flex-end;
+  margin-top: 100px;
+  margin-left: 90px;
 }
 
 .btn {
