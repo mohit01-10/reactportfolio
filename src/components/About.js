@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import profilePic from "../images/mym2.png";
+import profilePic from "../images/Black Pattern Minimalist LinkedIn Profile Picture.png";
 import experienceIcon from "../images/experience.png";
 import educationIcon from "../images/education.png";
 import arrowIcon from "../images/arrow.png";
@@ -32,8 +32,8 @@ function About() {
                 className="icon"
               />
               <h3>Experience</h3>
-              <p>Research Intern @ CAIR IIT Mandi </p>
-              <p>FullStack Intern @ DRID JIIT Noida </p>
+              <p>Product Engg Intern @ EffiGO </p>
+              <p>Research Intern @ CAIR IIT Mandi</p>
             </div>
             <div className="details-containera">
               <img
@@ -42,7 +42,7 @@ function About() {
                 className="icon"
               />
               <h3>Education</h3>
-              <p>Bachelors Degree B.Tech in<br />Computer Science Engineering</p>
+              <p> Bachelor of Technology in<br />Computer Science Engineering</p>
             </div>
           </div>
           <div className="text-container">
