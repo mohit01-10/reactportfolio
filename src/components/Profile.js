@@ -1,6 +1,7 @@
 import React from 'react';
 import './Profile.css';
 import profilePic from "../images/imggg-modified.png";
+import bgi from "../images/mountains-landscape-scery-8K-163.jpg";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin, faGithub, faInstagram } from '@fortawesome/free-brands-svg-icons';
 
@@ -26,11 +27,11 @@ function Profile() {
   };
 
   return (
-    <div className="fs">
+    <div className="fs" style={{ backgroundImage: `url(${bgi})` }}>
       <section id="home">
-        <div className="section__pic-container">
+        {/* <div className="section__pic-container">
           <img src={profilePic} alt="Profile" className="profilepic" />
-        </div>
+        </div> */}
         <div className="section__text">
           <h1 className="title0">Welcome and<br/> Hi, I'm <span id="typing-text" className="typing-animation">Mohit!🖐️</span></h1>
           <p className="section__text__p2"><b>Software Engineer</b></p>
