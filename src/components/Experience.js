@@ -16,7 +16,7 @@ function Experience() {
       <div class="experience-details-container">
         <div class="about-containers">
           <div class="details-container">
-            <h2 class="experience-sub-title">Web Development</h2>
+            <h2 class="experience-sub-title">Tech</h2>
             <div class="article-container">
               <article>
                 <img
@@ -37,7 +37,7 @@ function Experience() {
                 />
                 <div>
                   <h3>JavaScript</h3>
-                  <p>Basic</p>
+                  <p>Experienced</p>
                 </div>
               </article>
               <article>
@@ -48,7 +48,7 @@ function Experience() {
                 />
                 <div>
                   <h3>React JS</h3>
-                  <p>Basic</p>
+                  <p>Intermediate</p>
                 </div>
               </article>
               <article>
@@ -69,8 +69,8 @@ function Experience() {
                   class="icon"
                 />
                 <div>
-                  <h3>Material UI</h3>
-                  <p>Basic</p>
+                  <h3>SpringBoot</h3>
+                  <p>Intermediate</p>
                 </div>
               </article>
               <article>
@@ -80,8 +80,8 @@ function Experience() {
                   class="icon"
                 />
                 <div>
-                  <h3>Figma</h3>
-                  <p>Intermediate</p>
+                  <h3>RESTful APIs</h3>
+                  <p>Experienced</p>
                 </div>
               </article>
               <article>
@@ -91,8 +91,8 @@ function Experience() {
                   class="icon"
                 />
                 <div>
-                  <h3>Django</h3>
-                  <p>Basic</p>
+                  <h3>PostgreSQL</h3>
+                  <p>Experienced</p>
                 </div>
               </article>
               <article>
@@ -103,13 +103,13 @@ function Experience() {
                 />
                 <div>
                   <h3>Git</h3>
-                  <p>Intermediate</p>
+                  <p>Experienced</p>
                 </div>
               </article>
             </div>
           </div>
           <div class="details-container">
-            <h2 class="experience-sub-title">Programming</h2>
+            <h2 class="experience-sub-title">Stack</h2>
             <div class="article-container">
               <article>
                 <img
@@ -141,7 +141,7 @@ function Experience() {
                 />
                 <div>
                   <h3>Java</h3>
-                  <p>Basic</p>
+                  <p>Experienced</p>
                 </div>
               </article>
               <article>
