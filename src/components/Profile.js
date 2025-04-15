@@ -23,7 +23,7 @@ function Profile() {
   };
 
   const handleResumeClick = () => {
-    window.location.href = 'https://drive.google.com/file/d/1xJdFdkHU4S9EKcPMWyjTKeloVUGaBv8S/view?usp=sharing';
+    window.location.href = 'https://drive.google.com/file/d/1Oi0ofn4wO0a3BVStYfVkmnhWwQWdOUW8/view?usp=drive_link';
   };
 
   return (
