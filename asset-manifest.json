@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/reactportfolio/static/css/main.9cdf64ee.css",
-    "main.js": "/reactportfolio/static/js/main.33582027.js",
+    "main.css": "/reactportfolio/static/css/main.f57707ac.css",
+    "main.js": "/reactportfolio/static/js/main.21fbc8b9.js",
     "static/js/453.bb177003.chunk.js": "/reactportfolio/static/js/453.bb177003.chunk.js",
-    "static/media/mym2.png": "/reactportfolio/static/media/mym2.dd33b13ec6667bf4df06.png",
     "static/media/imggg-modified.png": "/reactportfolio/static/media/imggg-modified.4cb983e1ed55a16a1cbc.png",
-    "static/media/pp1.png": "/reactportfolio/static/media/pp1.ae1298dec202fe2436fc.png",
     "static/media/pp3.png": "/reactportfolio/static/media/pp3.8c9318bafafddc2f71e8.png",
+    "static/media/Black Pattern Minimalist LinkedIn Profile Picture.png": "/reactportfolio/static/media/Black Pattern Minimalist LinkedIn Profile Picture.b33400b4375e6dd9f4c2.png",
+    "static/media/dcb.png": "/reactportfolio/static/media/dcb.3a8cbc14f8d5edc4d761.png",
+    "static/media/mountains-landscape-scery-8K-163.jpg": "/reactportfolio/static/media/mountains-landscape-scery-8K-163.89dc8b6ea669364acdec.jpg",
     "static/media/pp4.png": "/reactportfolio/static/media/pp4.963e2e7dbcc9d6312c73.png",
     "static/media/i1.jpg": "/reactportfolio/static/media/i1.e4f37073dd330f48c515.jpg",
     "static/media/email.png": "/reactportfolio/static/media/email.761df3bc69bdc631bd2f.png",
@@ -15,12 +16,12 @@
     "static/media/insta.jpeg": "/reactportfolio/static/media/insta.11276a245663b2b4d1a5.jpeg",
     "static/media/linkedin.png": "/reactportfolio/static/media/linkedin.032cf8a63be2f0f4d425.png",
     "index.html": "/reactportfolio/index.html",
-    "main.9cdf64ee.css.map": "/reactportfolio/static/css/main.9cdf64ee.css.map",
-    "main.33582027.js.map": "/reactportfolio/static/js/main.33582027.js.map",
+    "main.f57707ac.css.map": "/reactportfolio/static/css/main.f57707ac.css.map",
+    "main.21fbc8b9.js.map": "/reactportfolio/static/js/main.21fbc8b9.js.map",
     "453.bb177003.chunk.js.map": "/reactportfolio/static/js/453.bb177003.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9cdf64ee.css",
-    "static/js/main.33582027.js"
+    "static/css/main.f57707ac.css",
+    "static/js/main.21fbc8b9.js"
   ]
 }
